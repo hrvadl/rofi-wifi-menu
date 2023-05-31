@@ -1,11 +1,11 @@
 # rofi-wifi-menu
-A Wi-Fi menu written in bash. Uses rofi and nmcli. Forked from [zbaylin](https://github.com/zbaylin/rofi-wifi-menu) because it was unmaintained and incompatible with modern versions of rofi. Additional contributions from [vlfldr](https://github.com/vlfldr/rofi-wifi-menu)'s fork.
+A Wi-Fi menu written in bash with custom icons and indication of currently connected network. Uses rofi and nmcli. Forked from [ericmurphyxyz](https://github.com/ericmurphyxyz/rofi-wifi-menu).
 
-![Screenshot of rofi-wifi-menu](https://user-images.githubusercontent.com/19492564/147341323-3c5cfd08-1f66-4555-b21f-038f063bcf44.png)
+![Screenshot of rofi-wifi-menu](https://github.com/hrvadl/rofi-wifi-menu/assets/93580374/b310a8b5-7a2f-43b7-90e6-5158278bcf06)
 
 ### Installation
 
-Install `nmcli` and `rofi` with your package manager. If you want to use the icons, set your Rofi font to a [Nerd Font](https://github.com/ryanoasis/nerd-fonts). Then run the following commands:
+Install `nmcli` and `rofi` with your package manager. If you want to use the icons, set your Rofi font to a [JetBrains Mono font](https://github.com/JetBrains/JetBrainsMono). Then run the following commands:
  
 ```
 git clone https://github.com/ericmurphyxyz/rofi-wifi-menu.git
